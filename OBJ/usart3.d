@@ -1,0 +1,17 @@
+..\obj\usart3.o: ..\HARDWARE\USART\usart3.c
+..\obj\usart3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+..\obj\usart3.o: ..\SYSTEM\delay\../sys/sys.h
+..\obj\usart3.o: ..\CMSIS\stm32f10x.h
+..\obj\usart3.o: ..\CMSIS\core_cm3.h
+..\obj\usart3.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\usart3.o: ..\CMSIS\system_stm32f10x.h
+..\obj\usart3.o: ..\USER\stm32f10x_conf.h
+..\obj\usart3.o: ..\LIB\inc\stm32f10x_exti.h
+..\obj\usart3.o: ..\CMSIS\stm32f10x.h
+..\obj\usart3.o: ..\LIB\inc\stm32f10x_gpio.h
+..\obj\usart3.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\usart3.o: ..\LIB\inc\stm32f10x_tim.h
+..\obj\usart3.o: ..\LIB\inc\stm32f10x_usart.h
+..\obj\usart3.o: ..\LIB\inc\misc.h
+..\obj\usart3.o: ..\HARDWARE\USART\usart3.h
+..\obj\usart3.o: ..\SYSTEM\delay\../delay/delay.h

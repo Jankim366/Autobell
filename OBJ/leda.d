@@ -1,0 +1,16 @@
+..\obj\leda.o: ..\USER\leda.c
+..\obj\leda.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\leda.o: ..\CMSIS\stm32f10x.h
+..\obj\leda.o: ..\CMSIS\core_cm3.h
+..\obj\leda.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\leda.o: ..\CMSIS\system_stm32f10x.h
+..\obj\leda.o: ..\USER\stm32f10x_conf.h
+..\obj\leda.o: ..\LIB\inc\stm32f10x_exti.h
+..\obj\leda.o: ..\CMSIS\stm32f10x.h
+..\obj\leda.o: ..\LIB\inc\stm32f10x_gpio.h
+..\obj\leda.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\leda.o: ..\LIB\inc\stm32f10x_tim.h
+..\obj\leda.o: ..\LIB\inc\stm32f10x_usart.h
+..\obj\leda.o: ..\LIB\inc\misc.h
+..\obj\leda.o: ..\SYSTEM\delay\delay.h
+..\obj\leda.o: ..\SYSTEM\sys\sys.h

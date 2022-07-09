@@ -1,0 +1,17 @@
+..\obj\fire.o: ..\USER\fire.c
+..\obj\fire.o: ..\USER\fire.h
+..\obj\fire.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\fire.o: ..\CMSIS\core_cm3.h
+..\obj\fire.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\fire.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\fire.o: ..\USER\stm32f10x_conf.h
+..\obj\fire.o: ..\LIB\inc\stm32f10x_exti.h
+..\obj\fire.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\fire.o: ..\LIB\inc\stm32f10x_gpio.h
+..\obj\fire.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\fire.o: ..\LIB\inc\stm32f10x_tim.h
+..\obj\fire.o: ..\LIB\inc\stm32f10x_usart.h
+..\obj\fire.o: ..\LIB\inc\misc.h
+..\obj\fire.o: ..\USER\main.h
+..\obj\fire.o: ..\LIB\inc\stm32f10x_adc.h
+..\obj\fire.o: ..\LIB\inc\stm32f10x_dma.h

@@ -1,0 +1,14 @@
+..\obj\misc.o: ..\LIB\src\misc.c
+..\obj\misc.o: ..\LIB\inc\misc.h
+..\obj\misc.o: ..\CMSIS\stm32f10x.h
+..\obj\misc.o: ..\CMSIS\core_cm3.h
+..\obj\misc.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\misc.o: ..\CMSIS\system_stm32f10x.h
+..\obj\misc.o: ..\USER\stm32f10x_conf.h
+..\obj\misc.o: ..\LIB\inc\stm32f10x_exti.h
+..\obj\misc.o: ..\CMSIS\stm32f10x.h
+..\obj\misc.o: ..\LIB\inc\stm32f10x_gpio.h
+..\obj\misc.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\misc.o: ..\LIB\inc\stm32f10x_tim.h
+..\obj\misc.o: ..\LIB\inc\stm32f10x_usart.h
+..\obj\misc.o: ..\LIB\inc\misc.h

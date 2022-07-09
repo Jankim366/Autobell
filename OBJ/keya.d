@@ -1,0 +1,14 @@
+..\obj\keya.o: ..\USER\keya.c
+..\obj\keya.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\keya.o: ..\CMSIS\stm32f10x.h
+..\obj\keya.o: ..\CMSIS\core_cm3.h
+..\obj\keya.o: D:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\keya.o: ..\CMSIS\system_stm32f10x.h
+..\obj\keya.o: ..\USER\stm32f10x_conf.h
+..\obj\keya.o: ..\LIB\inc\stm32f10x_exti.h
+..\obj\keya.o: ..\CMSIS\stm32f10x.h
+..\obj\keya.o: ..\LIB\inc\stm32f10x_gpio.h
+..\obj\keya.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\keya.o: ..\LIB\inc\stm32f10x_tim.h
+..\obj\keya.o: ..\LIB\inc\stm32f10x_usart.h
+..\obj\keya.o: ..\LIB\inc\misc.h

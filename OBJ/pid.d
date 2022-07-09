@@ -1,0 +1,17 @@
+..\obj\pid.o: ..\USER\pid.c
+..\obj\pid.o: ..\USER\pid.h
+..\obj\pid.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\pid.o: ..\CMSIS\core_cm3.h
+..\obj\pid.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+..\obj\pid.o: ..\SYSTEM\sys\system_stm32f10x.h
+..\obj\pid.o: ..\USER\stm32f10x_conf.h
+..\obj\pid.o: ..\LIB\inc\stm32f10x_exti.h
+..\obj\pid.o: ..\SYSTEM\sys\stm32f10x.h
+..\obj\pid.o: ..\LIB\inc\stm32f10x_gpio.h
+..\obj\pid.o: ..\LIB\inc\stm32f10x_rcc.h
+..\obj\pid.o: ..\LIB\inc\stm32f10x_tim.h
+..\obj\pid.o: ..\LIB\inc\stm32f10x_usart.h
+..\obj\pid.o: ..\LIB\inc\misc.h
+..\obj\pid.o: ..\USER\motor.h
+..\obj\pid.o: ..\USER\main.h
+..\obj\pid.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
